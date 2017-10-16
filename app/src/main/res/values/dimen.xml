@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="jarak24dp">24dp</dimen>
+    <dimen name="jarak12dp">12dp</dimen>
+    <dimen name="jarak8dp">8dp</dimen>
+    <dimen name="jarak4dp">4dp</dimen>
+    <dimen name="jarak60dp">60dp</dimen>
+    <dimen name="jarakmin2dp">-2dp</dimen>
+    <dimen name="jarakmin28dp">-28dp</dimen>
+    <dimen name="jarak28dp">28dp</dimen>
+    <dimen name="jarak200dp">200dp</dimen>
+    <dimen name="jarak120dp">120dp</dimen>
+    <dimen name="jarak16dp">16dp</dimen>
+    <dimen name="jarak0dp">0dp</dimen>
+</resources>
